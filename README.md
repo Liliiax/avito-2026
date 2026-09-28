@@ -51,7 +51,7 @@ pip install pandas pyarrow numpy scikit-learn
 
 Данные уже должны находиться в папке `data/`.
 
-Из корневой директории проекта достаточно выполнить:
+Из директории `/src` проекта достаточно выполнить:
 
 ```bash
 python answer.py
